@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-orange)](https://scikit-learn.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Um projeto feito no curso "Fundamentos de IA: investigando algoritmos e abordagens de machine learning" na Alura conciso de aprendizado não supervisionado demonstrando técnicas fundamentais de clusterização e redução de dimensionalidade usando o dataset Iris, focando na aplicação prática de:
 
